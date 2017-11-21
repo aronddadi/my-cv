@@ -2,4 +2,5 @@
 
 In this repository you'll find my personal CV
 
-The link to it will be available soon
+
+[Link](https://aronddadi.github.io/my-cv/)
